@@ -7,7 +7,7 @@ sections:
       text: Welcome to TM Art Academy – Empowering Creativity and Learning
       color: text-dark
       type: TitleBlock
-    subtitle: 'A space where aspiring artists of all levels learn, create, and thrive."'
+    subtitle: 'A space where aspiring artists of all levels learn, create, and thrive.'
     text: >+
       Discover engaging courses, creative resources, and all about TM Arts. Your
       journey to artistic excellence begins here!
