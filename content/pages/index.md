@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Your Gateway to Artistic Excellence
       color: text-primary
       type: Badge
     elementId: ''
