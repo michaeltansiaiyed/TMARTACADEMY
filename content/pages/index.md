@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to TM Academy – Empowering Creativity and Learning
+      text: Welcome to TM Art Academy – Empowering Creativity and Learning
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
