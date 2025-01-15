@@ -80,10 +80,10 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pb-1
-          - pt-1
-          - pl-1
-          - pr-1
+          - pb-0
+          - pt-0
+          - pl-0
+          - pr-0
         margin:
           - mt-1
           - ml-1
