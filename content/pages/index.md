@@ -84,6 +84,11 @@ sections:
           - pt-1
           - pl-1
           - pr-1
+        margin:
+          - mt-6
+          - ml-6
+          - mb-6
+          - mr-6
       subtitle:
         textAlign: center
     type: ImageGallerySection
