@@ -136,10 +136,13 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          At TM Art Academy, we offer more than just expert art instruction—we
+          provide access to a thriving network. Our collaboration with Nigerian
+          celebrity Magneto highlights our strong ties to the creative and
+          entertainment industries, giving students a unique edge and valuable
+          insights into the broader artistic world.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
