@@ -135,11 +135,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Industry Connections and Networking Opportunities
-        subtitle: >-
-          Here's a concise, three-word subtitle:---Subtitle:"Connect. Learn.
-          Grow."---This captures the essence of industry connections and
-          personal growth succinctly. Let me know if you'd like to refine it
-          further!
+        subtitle: Connect. Learn. Grow.
         text: >+
           At TM Art Academy, we offer more than just expert art instruction—we
           provide access to a thriving network. Our collaboration with Nigerian
