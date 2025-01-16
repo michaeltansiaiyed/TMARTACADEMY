@@ -65,7 +65,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/IMG_20241211_085646_276.jpg
+      - url: /images/wellster-logo.svg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
