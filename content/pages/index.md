@@ -134,7 +134,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Industry Connections and Networking Opportunities
         subtitle: The Job Stuff
         text: >+
           At TM Art Academy, we offer more than just expert art instruction—we
