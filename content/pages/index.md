@@ -91,7 +91,7 @@ sections:
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: WHAT SET US APART
+      text: What Set Us Apart
       color: text-dark
       styles:
         self:
