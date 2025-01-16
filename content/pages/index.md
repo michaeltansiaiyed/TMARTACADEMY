@@ -97,7 +97,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock Your Artistic Potential"
     items:
       - type: FeaturedItem
         title: Award of Recognition for Artistic Excellence
