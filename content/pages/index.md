@@ -124,7 +124,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/20250116_011649.png
           styles:
             self:
               borderRadius: x-large
