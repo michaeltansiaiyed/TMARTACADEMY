@@ -163,7 +163,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Credible Artistic Excellence
-        subtitle: Faster
+        subtitle: uilt on Trust and Excellence
         text: >+
           TM Art Academy is built on a foundation of years of expertise and
           dedication to the arts. Our reputation for delivering high-quality
