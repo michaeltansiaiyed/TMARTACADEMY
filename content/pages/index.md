@@ -4,14 +4,14 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: Welcome to TM Art Academy – Empowering Creativity and Learning
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: 'A space where aspiring artists of all levels learn, create, and thrive.'
+    text: >+
+      Discover engaging courses, creative resources, and all about TM Arts. Your
+      journey to artistic excellence begins here!
+
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +32,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/IMG_20241026_122902_580.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: Your Gateway to Artistic Excellence
       color: text-primary
       type: Badge
     elementId: ''
@@ -51,23 +51,67 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+  - subtitle: Our Achievement
+    images:
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
+      - url: /images/vise-logo.svg
+        altText: Vise logo
+        type: ImageBlock
+      - url: /images/telus-logo.svg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/contenful-logo.svg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/wellster-logo.svg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/rangle-logo.svg
+        altText: Rangle logo
+        type: ImageBlock
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+        padding:
+          - pb-0
+          - pt-0
+          - pl-0
+          - pr-0
+        margin:
+          - mt-1
+          - ml-1
+          - mb-1
+          - mr-1
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Choose Us
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock Your Artistic Potential
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: Award of Recognition for Artistic Excellence
+        subtitle: Recognizing Artistic Mastery
+        text: >+
+
+          TM Art Academy is proud to have received an Award of Recognition from
+          Don Flex at the prestigious Gombe State Art and Music Festival. This
+          recognition underscores our commitment to excellence in the arts,
+          reinforcing the value of our curriculum and the dedication of our
+          instructors. At TM Art Academy, we strive to inspire and nurture the
+          next generation of artists, guiding them to achieve mastery in
+          drawing, portraiture, and hyperrealism.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -86,16 +130,19 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/20250116_011649.png
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Industry Connections and Networking Opportunities
+        subtitle: Connect. Learn. Grow.
+        text: >+
+          At TM Art Academy, we offer more than just expert art instruction—we
+          provide access to a thriving network. Our collaboration with Nigerian
+          celebrity Magneto highlights our strong ties to the creative and
+          entertainment industries, giving students a unique edge and valuable
+          insights into the broader artistic world.
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +162,16 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+      - title: Credible Artistic Excellence
+        subtitle: Built on Trust and Excellence
+        text: >+
+          TM Art Academy is built on a foundation of years of expertise and
+          dedication to the arts. Our reputation for delivering high-quality
+          education in portrait drawing, hyperrealism, and various art forms has
+          earned us recognition within the industry. Students choose TM Art
+          Academy for its proven track record of nurturing talented artists who
+          go on to make an impact in the art world.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +200,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Your gate way to artistic excellence
       color: text-primary
       styles:
         self:
@@ -168,37 +219,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
@@ -435,7 +455,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +485,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +545,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +575,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +670,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
@@ -744,4 +769,5 @@ seo:
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
+isDraft: true
 ---
