@@ -162,7 +162,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
+      - title: Credible Artistic Excellence
         subtitle: Faster
         text: >+
           TM Art Academy is built on a foundation of years of expertise and
