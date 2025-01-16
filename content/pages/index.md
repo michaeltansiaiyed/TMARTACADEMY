@@ -100,7 +100,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Award of Recognition for Artistic Excellence
         subtitle: Award of Recognition for Artistic Excellence
         text: >+
 
