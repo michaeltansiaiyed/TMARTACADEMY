@@ -102,10 +102,16 @@ sections:
       - type: FeaturedItem
         title: 500k
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          TM Art Academy is proud to have received an Award of Recognition from
+          Don Flex at the prestigious Gombe State Art and Music Festival. This
+          recognition underscores our commitment to excellence in the arts,
+          reinforcing the value of our curriculum and the dedication of our
+          instructors. At TM Art Academy, we strive to inspire and nurture the
+          next generation of artists, guiding them to achieve mastery in
+          drawing, portraiture, and hyperrealism.
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
