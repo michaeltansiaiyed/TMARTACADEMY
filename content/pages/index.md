@@ -101,7 +101,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Award of Recognition for Artistic Excellence
-        subtitle: Award of Recognition for Artistic Excellence
+        subtitle: ''
         text: >+
 
           TM Art Academy is proud to have received an Award of Recognition from
