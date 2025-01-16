@@ -164,10 +164,14 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          TM Art Academy is built on a foundation of years of expertise and
+          dedication to the arts. Our reputation for delivering high-quality
+          education in portrait drawing, hyperrealism, and various art forms has
+          earned us recognition within the industry. Students choose TM Art
+          Academy for its proven track record of nurturing talented artists who
+          go on to make an impact in the art world.
+
         image:
           url: /images/icon3.svg
           altText: Featured icon three
