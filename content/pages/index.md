@@ -101,7 +101,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Award of Recognition for Artistic Excellence
         text: >+
 
           TM Art Academy is proud to have received an Award of Recognition from
