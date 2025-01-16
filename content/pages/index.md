@@ -91,7 +91,7 @@ sections:
     type: ImageGallerySection
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: WHAT SET US APART
       color: text-dark
       styles:
         self:
